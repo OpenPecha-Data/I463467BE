@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W2PD17605
   title: 中国藏族部落
   author: ''
-  volumes: {}
+  volumes:
+    312311e336b84562a7c3490bed04e915:
+      image_group_id: I4PD4247
+      title: ''
+      volume_number: 1
+      total_pages: 734
